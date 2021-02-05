@@ -1,0 +1,16 @@
+body {
+  background: yellow;
+}
+
+div {
+  width: 200px;
+  height: 300px;
+  border: 1px solid red;
+}
+span {
+  background: blue;
+}
+p {
+  font-size: 100px;
+}
+

@@ -1,0 +1,1 @@
+export default '这是str的文件'
